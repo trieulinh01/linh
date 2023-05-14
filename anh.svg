@@ -79,7 +79,8 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Linh. I live in Vĩnh Phúc. Nice to meet you!
+          Hi Aliens!<br/>I'm Linh. I live in Vĩnh Phúc.
+					<br>Nice to meet you!
         </div>
         <div class="skills">
           <div class="skills_icon">
