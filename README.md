@@ -67,5 +67,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/342047142_957972921876087_8433355315143410735_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KYeVCzF4Y4oAX-85D0Y&_nc_ht=scontent.fhan17-1.fna&oh=00_AfDa-ImqbiBTW_RJaoVsJECuIOQPp87pxAQXi44_7BloZQ&oe=6465982D" width="846" height="50" alt="" />
+  <img src="https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/342047142_957972921876087_8433355315143410735_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KYeVCzF4Y4oAX-85D0Y&_nc_ht=scontent.fhan17-1.fna&oh=00_AfDa-ImqbiBTW_RJaoVsJECuIOQPp87pxAQXi44_7BloZQ&oe=6465982D" width="846" height="" alt="" />
 </a>
